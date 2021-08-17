@@ -4,9 +4,8 @@
   Leader of @skullxploit<br>
 </p>
 
-  - Site : <a target="_blank" href="https://skullxploit.com">skullxploit.com</a>
-  - Online Tools : <a target="_blank" href="https://tools.skullxploit.com">tools.skullxploit.com</a>
-  - CTF : <a target="_blank" href="https://ctf.skullxploit.com">ctf.skullxploit.com</a>
+  - Blog : <a target="_blank" href="https://blog.nopebee7.tech">blog.nopebee7.tech</a>
+  - CTF : <a target="_blank" href="https://ctf.nopebee7.tech/">ctf.nopebee7.tech/</a>
 <p>
   Indonesian People 🇮🇩🇮🇩
 </p>
