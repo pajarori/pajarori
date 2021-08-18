@@ -5,7 +5,7 @@
 </p>
 
   - Blog : <a target="_blank" href="https://blog.nopebee7.tech">blog.nopebee7.tech</a>
-  - CTF : <a target="_blank" href="https://ctf.nopebee7.tech/">ctf.nopebee7.tech/</a>
+  - CTF : <a target="_blank" href="https://ctf.nopebee7.tech">ctf.nopebee7.tech/</a>
 <p>
   Indonesian People 🇮🇩🇮🇩
 </p>
@@ -15,6 +15,7 @@
   <span><img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=PHP&logoColor=white"></span>
   <span><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=JavaScript&logoColor=black"></span>
   <span><img alt="Shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></span>
+  <span><img alt="Shell" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"></span>
 </p>
 <details>
 <summary>My Stats</summary>
