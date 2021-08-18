@@ -5,7 +5,7 @@
 </p>
 
   - Blog : <a target="_blank" href="https://blog.nopebee7.tech">blog.nopebee7.tech</a>
-  - CTF : <a target="_blank" href="https://ctf.nopebee7.tech">ctf.nopebee7.tech/</a>
+  - CTF : <a target="_blank" href="https://ctf.nopebee7.tech">ctf.nopebee7.tech</a>
 <p>
   Indonesian People 🇮🇩🇮🇩
 </p>
