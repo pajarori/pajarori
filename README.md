@@ -1,11 +1,8 @@
 ### 👋 Hello, my name is Fajar
 <p>
   I'am 16 years old. Cyber Security Enthusiast.<br>
-  Leader of @skullxploit<br>
 </p>
 
-  - Blog : <a target="_blank" href="https://nopebee7.tech">nopebee7.tech</a>
-  - CTF : <a target="_blank" href="https://ctf.nopebee7.tech">ctf.nopebee7.tech</a>
 <p>
   Indonesian People 🇮🇩🇮🇩
 </p>
@@ -25,7 +22,3 @@
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopebee7&layout=compact&show_icons=true&theme=react">
 </p>
 </details>
-<p>
-  <span><img src="https://badges.pufler.dev/visits/nopebee7/nopebee7?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"></span>
-  <span><img src="https://badges.pufler.dev/created/nopebee7/nopebee7?logo=GitHub&label=Created&color=success&logoColor=white&style=flat-square"</span>
-</p>
