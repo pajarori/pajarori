@@ -20,7 +20,7 @@ class nopebee7 ( ReadMe ) :
         self.languages = [ "Python", "PHP", "Javascript", "Golang" ]
 
     def about ( self ) :
-        print( f"Hi, I'm just a guy who codes. Contact me at {self.discord}" )
+        print( f"Hi, I'm just love codes. Contact me at {self.discord}" )
 
 me = nopebee7()
 me.about()
