@@ -7,7 +7,7 @@
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚══════╝╚═════╝ ╚══════╝╚══════╝   ╚═╝  
 </pre> 
 
-<img align="left" src="https://i.ibb.co/4YxVR7Y/image-4.png" alt="Senpai" width="308" />  
+<img align="left" src="https://i.ibb.co/4YxVR7Y/image-4.png" alt="Senpai" />  
 
 ```python
 from github.profile import ReadMe
