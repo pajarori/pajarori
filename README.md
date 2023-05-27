@@ -16,7 +16,7 @@ class nopebee7 ( ReadMe ) :
     def __init__ ( self ) :
         self.username  = "nopebee7"
         self.location  = "Indonesia"
-        self.discord   = "JarSenpai#5431"
+        self.discord   = "Satyriha#9489"
         self.languages = [ "Python", "PHP", "Javascript", "Golang" ]
 
     def about ( self ) :
