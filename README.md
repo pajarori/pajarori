@@ -7,38 +7,21 @@
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚══════╝╚═════╝ ╚══════╝╚══════╝   ╚═╝  
 </pre> 
 
-```asm
-section .data
-    username db "nopebee7",0
-    location db "Indonesia",0
-    discord db "satyriha",0
+<img align="left" src="https://i.ibb.co/4YxVR7Y/image-4.png" alt="Senpai" width="273" />  
 
-section .bss
-    languages resb 7 * 20
+```python
+from github.profile import ReadMe
 
-section .text
-global _start
+class nopebee7 ( ReadMe ) :
+    def __init__ ( self ) :
+        self.username  = "nopebee7"
+        self.location  = "Indonesia"
+        self.discord   = "Satyriha#9489"
+        self.languages = [ "Python", "PHP", "Javascript", "Golang", "Java", "Lua" ]
 
-_start:
-    mov eax, 4 
-    mov ebx, 1      
-    
-    mov edx, username
-    mov ecx, edx
-    mov edx, discord
-    call print_string
+    def about ( self ) :
+        print( f"Hi, I'm {self.username}. Contact me at {self.discord}" )
 
-    mov eax, 1
-    xor ebx, ebx 
-    int 0x80
-
-print_string:
-    next_char:
-        lodsb
-        cmp al, 0
-        je done
-        int 0x80
-        jmp next_char
-    done:
-        ret
+me = nopebee7()
+me.about()
 ```
