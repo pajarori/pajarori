@@ -15,7 +15,7 @@ from github.profile import ReadMe
 class nopebee7 ( ReadMe ) :
     def __init__ ( self ) :
         self.username  = "pajarori"
-        self.location  = "Indonesia"
+        self.location  = "Semarang, Indonesia"
         self.discord   = "satyriha"
         self.languages = [ "Python", "PHP", "Javascript", "Golang", "Java", "Lua" ]
 
